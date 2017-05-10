@@ -1,4 +1,10 @@
 
+/*
+ * Crea a Xeometría cos seguintes métodos:
+		a. int perímetroCadrado(int lado)
+		b. int areaCadrado(int lado)
+		c. double teoremaPitagoras(int catetoA, int catetoB) 
+ */
 public class Xeometria {
 	int perimetroCadrado (int lado) {
 		if (lado<0) {
