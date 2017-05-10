@@ -7,6 +7,6 @@
 	 */
 
 public class DNI {
+	// boolean eValido(string numeroLetra)
 	
 }	
-  
