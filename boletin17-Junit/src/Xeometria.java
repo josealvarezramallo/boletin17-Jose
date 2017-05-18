@@ -1,4 +1,3 @@
-
 /* Ejercicio: Crea a Xeometría cos seguintes métodos:
 		a. int perímetroCadrado(int lado)
 		b. int areaCadrado(int lado)
